@@ -1,59 +1,55 @@
-<h2 align="center">Hi, I'm Rishika Gupta  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
- 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishikagupta__?style=social)](https://twitter.com/Rishika5000)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
-[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
+<h2 align="center">Hi, I'm Suraj Kumar  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+
+[![GitHub followers](https://img.shields.io/github/followers/surajpathak23?style=social)](https://github.com/surajpathak23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-2307skp/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/surajpathak23?style=social)](https://twitter.com/)
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
-<h2>About me</h2>
+<h2>About Me</h2>
 
-I am Rishika Gupta, currently working as a Senior Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
+I am Suraj Kumar, a BCA student (Data Analyst) at MMDU University, Ambala (2023–2026) with a CGPA of 8.04. I am passionate about **Data Analysis, Machine Learning**, and transforming raw data into actionable insights.  
+⚡ Fun fact: I love learning new technologies and applying them to solve real-world problems.  
 💬 Ask me anything, I will be more than happy to help :D
 
-<h2>🛠Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 
-Languages  
+**Languages**  
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-Frameworks, Platforms and Libraries  
-![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+**Data Science / ML**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23white.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23004137.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+**Tools & Platforms**  
+![MS Excel](https://img.shields.io/badge/MS_Excel-%230072C6.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Google Colab](https://img.shields.io/badge/GoogleColab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-📺 Latest YouTube Videos
+<h2>📺 Latest Projects</h2>
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [AI use kroge to tumhari job to gyi #coding #ai](https://www.youtube.com/shorts/1GwIHmVvUok)
-- [3 ways to implement Singleton pattern in java? OOP Design Patterns Part-5](https://www.youtube.com/watch?v=531_BR023BE)
-- [What is Singleton Pattern and when to use it? OOP Design Patterns Part-4](https://www.youtube.com/watch?v=SHCNSsCvD0I)
-- [How to implement Builder pattern in java? OOP Design Patterns Part-3](https://www.youtube.com/watch?v=G1ujhPL4eCo)
-- [When to use Builder Pattern? OOP Design Patterns Part-2](https://www.youtube.com/watch?v=TOiZ-WahJT8)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [House Price Prediction (Linear Regression)](https://github.com/surajpathak23)  
+- [Student Performance Prediction (Linear Regression)](https://github.com/surajpathak23)  
+- [Customer Lifetime Value (Random Forest)](https://github.com/surajpathak23)  
+- [IPL Data Analysis (Python & Pandas)](https://github.com/surajpathak23)  
+- [Movie Dataset Analysis (EDA)](https://github.com/surajpathak23)  
 
+<h2>Internship 🎯</h2>
 
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
+- **Xplore.co.in — Data Analyst Intern**  
+  - Worked on real-time datasets for data cleaning and analysis  
+  - Created visualizations to understand patterns and trends  
+  - Used Python libraries like Pandas, NumPy, Matplotlib  
+  - Collaborated in a team to solve data-related problems  
 
+<h2>📫 Connect with me</h2>
 
-
-
-📫Connect with me:
-
-
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/rishikagupta-rg/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/Rishika5000) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww) 
-[<img src="https://user-images.githubusercontent.com/39955420/147606108-506d542b-a344-43d3-a4a3-aadd775f5c0b.png" height="48" width="48">](https://www.polywork.com/rishikagupta)
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:rishika246813579@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/rishikagupta__/)
-
-
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/suraj-kumar-2307skp/) 
+[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/surajpathak23) 
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/) 
+[![Mail](https://img.icons8.com/fluency/48/000000/email.png)](mailto:surajpathakdes@gmail.com)
