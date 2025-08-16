@@ -5,8 +5,9 @@
 <!-- GitHub Profile Banner -->
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://github.com/surajpathak23/surajpathak23/blob/main/assets/banner.png" alt="GitHub Banner" width="100%">
+  <img src="[https://github.com/surajpathak23/surajpathak23/blob/main/assets/banner.png](https://github.com/surajpathak23/surajpathak23/blob/main/YouTube%20Banner%20-%20Data%20Analyst%20%20Python%20%20ML.png?raw=true)" alt="GitHub Banner" width="100%">
 </p>
+
 
 
 
