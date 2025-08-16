@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="https://github.com/surajpathak23/surajpathak23/blob/main/assets/banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+
+
+
 <!--
 **surajpathak23/surajpathak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
