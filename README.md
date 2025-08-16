@@ -3,12 +3,13 @@
 <!-- GitHub Profile Banner -->
 
 <!-- GitHub Profile Banner -->
+<!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://github.com/surajpathak23/surajpathak23/blob/main/assets/banner.png](https://github.com/surajpathak23/surajpathak23/blob/main/YouTube%20Banner%20-%20Data%20Analyst%20%20Python%20%20ML.png" alt="GitHub Banner" width="100%">
+  <img src="https://github.com/surajpathak23/surajpathak23/blob/main/assets/banner.png" alt="GitHub Banner" width="100%">
 </p>
 
 
-https://github.com/surajpathak23/surajpathak23/blob/main/YouTube%20Banner%20-%20Data%20Analyst%20%20Python%20%20ML.png
+
 
 <!--
 **surajpathak23/surajpathak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
