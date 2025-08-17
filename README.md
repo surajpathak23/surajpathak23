@@ -1,8 +1,15 @@
 <h1 align="center">Hi, I'm Suraj Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 <p align="center">
-  <a href="https://github.com/surajpathak23"><img src="https://img.shields.io/github/followers/surajpathak23?label=Follow&style=social" alt="GitHub Follow"></a>
-  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/surajpathak23">
+    <img src="https://img.shields.io/github/followers/surajpathak23?label=GitHub&style=social" alt="GitHub Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/">
+    <img src="https://img.shields.io/badge/LinkedIn-714k-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:surajpathakdes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
@@ -63,8 +70,7 @@ I love **turning raw data into actionable insights** using Python, SQL, and BI t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/surajpathak23">
-  <img src="https://img.icons8.com/ios11/512/EBEBEB/github.png" width="48" height="48" /></a>  
+  <a href="https://github.com/surajpathak23"><img src="https://img.icons8.com/ios11/512/EBEBEB/github.png" width="48" height="48" /></a>  
   <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
   <a href="https://twitter.com/"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 </p>
