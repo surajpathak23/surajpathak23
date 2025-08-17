@@ -66,4 +66,5 @@ I love **turning raw data into actionable insights** using Python, SQL, and BI t
   <a href="https://github.com/surajpathak23"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
   <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
   <a href="https://twitter.com/"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="https://github.com/surajpathak23"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F107161%2Fcircle_github_icon&psig=AOvVaw1DmeJyRIEAcxgebmj2OGFC&ust=1755489132532000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDImeP4kI8DFQAAAAAdAAAAABAf"/></a>
 </p>
