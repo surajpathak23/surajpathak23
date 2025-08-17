@@ -1,17 +1,10 @@
 <h1 align="center">Hi, I'm Suraj Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <!-- GitHub Followers Badge -->
-  <a href="https://github.com/surajpathak23">
-    <img src="https://img.shields.io/github/followers/surajpathak23?label=GitHub&style=social&logo=github&logoColor=white" alt="GitHub Follow">
+  <a href="https://github.com/surajpathak23"><img src="https://img.shields.io/github/followers/surajpathak23?label=GitHub&style=social" alt="GitHub Follow">
   </a>
-  
-  <!-- LinkedIn Followers Badge -->
-  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/">
-    <img src="https://img.shields.io/badge/LinkedIn-714k-blue?style=social&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-2307skp/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.shields.io/badge/LinkedIn-2.1k-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <!-- Email Badge -->
   <a href="mailto:surajpathakdes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -31,6 +24,7 @@ I love **turning raw data into actionable insights** using Python, SQL, and BI t
 
 <h2 align="center">🛠 Tech Stack</h2>
 
+**Languages & Tools**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white">
@@ -76,5 +70,5 @@ I love **turning raw data into actionable insights** using Python, SQL, and BI t
   <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://github.com/surajpathak23"><img src="https://img.icons8.com/ios11/512/EBEBEB/github.png" width="48" height="48" /></a>  
   <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
-  <a href="https://twitter.com/"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="https://x.com/suraj_pathak23"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 </p>
