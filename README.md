@@ -41,11 +41,11 @@ I love **turning raw data into actionable insights** using Python, SQL, and BI t
   <a href="https://github.com/surajpathak23"><img src="https://media.giphy.com/media/3ohs4xPu3F0C6jVxEE/giphy.gif" width="40"></a>
 </p>
 
-- **House Price Prediction** (Linear Regression) — [GitHub →](https://github.com/surajpathak23)  
-- **Student Performance Prediction** (Linear Regression) — [GitHub →](https://github.com/surajpathak23)  
-- **Customer Lifetime Value Dashboard** (Random Forest) — [GitHub →](https://github.com/surajpathak23)  
-- **IPL Data Analysis** (Python & Pandas) — [GitHub →](https://github.com/surajpathak23)  
-- **Movie Dataset Analysis** (EDA) — [GitHub →](https://github.com/surajpathak23)  
+- **House-Rent-Prediction** (Linear Regression) — [GitHub →](https://github.com/surajpathak23/House-Rent-Prediction)  
+- **Student-Performance-Analysis** (EDA) — [GitHub →](https://github.com/surajpathak23/Student-Performance-Analysis)  
+- **Customer Lifetime Value Dashboard** (Random Forest) — [GitHub →](https://github.com/surajpathak23/Customer-Churn-Prediction)  
+- **Ecommerce-Customer-EDA** (Python & Pandas) — [GitHub →](https://github.com/surajpathak23/Ecommerce-Customer-EDA)  
+- **CLV-ML-Dashboard** (Streamlit) — [GitHub →](https://github.com/surajpathak23/CLV-ML-Dashboard)  
 
 ---
 
