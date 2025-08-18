@@ -1,10 +1,19 @@
 <h1 align="center">Hi, I'm Suraj Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <a href="https://github.com/surajpathak23"><img src="https://img.shields.io/github/followers/surajpathak23?label=GitHub&style=social"></a>
-  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/surajpathak23"><img src="https://img.shields.io/github/followers/surajpathak23?label=GitHub&style=social" alt="GitHub Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.shields.io/badge/LinkedIn-2.1k-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:surajpathakdes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
+
+---
+
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 ---
 
@@ -16,50 +25,35 @@
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
+
+**Languages & Tools**  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-F8766D?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-0F4C81?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black">
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white">
 </p>
 
 ---
 
-## 🚀 Featured Projects
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-data-science-data-science-flat-flat-juicy-fish-2.png" width="40"> <b>House Rent Prediction</b>  
-    Linear Regression model for predicting house rent prices.  
-    🔗 [GitHub Repo](https://github.com/surajpathak23/House-Rent-Prediction)</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/analytics.png"/> <b>Student Performance Analysis</b>  
-    Performed **EDA** to find insights from student performance data.  
-    🔗 [GitHub Repo](https://github.com/surajpathak23/Student-Performance-Analysis)</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-dashboard-data-analytics-flaticons-lineal-color-flat-icons.png" width="40"> <b>Customer Lifetime Value Dashboard</b>  
-    Built a Random Forest model with an interactive BI dashboard.  
-    🔗 [GitHub Repo](https://github.com/surajpathak23/Customer-Churn-Prediction)</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/commercial-development-.png"/> <b>Ecommerce Customer EDA</b>  
-    In-depth **EDA with Pandas & Python** on ecommerce dataset.  
-    🔗 [GitHub Repo](https://github.com/surajpathak23/Ecommerce-Customer-EDA)</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/dashboard-layout.png"/> <b>CLV ML Dashboard</b>  
-    Interactive **Streamlit Dashboard** for CLV predictions.  
-    🔗 [GitHub Repo](https://github.com/surajpathak23/CLV-ML-Dashboard)</td>
-  </tr>
-</table>
+<h2 align="center">📊 Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/surajpathak23"><img src="https://media.giphy.com/media/3ohs4xPu3F0C6jVxEE/giphy.gif" width="40"></a>
+</p>
+
+- **House-Rent-Prediction** (Linear Regression) — [GitHub →](https://github.com/surajpathak23/House-Rent-Prediction)  
+- **Student-Performance-Analysis** (EDA) — [GitHub →](https://github.com/surajpathak23/Student-Performance-Analysis)  
+- **Customer Lifetime Value Dashboard** (Random Forest) — [GitHub →](https://github.com/surajpathak23/Customer-Churn-Prediction)  
+- **Ecommerce-Customer-EDA** (Python & Pandas) — [GitHub →](https://github.com/surajpathak23/Ecommerce-Customer-EDA)  
+- **CLV-ML-Dashboard** (Streamlit) — [GitHub →](https://github.com/surajpathak23/CLV-ML-Dashboard)  
 
 ---
 
@@ -72,10 +66,11 @@
 
 ---
 
-## 📫 Connect with Me
+<h2 align="center">📫 Connect with Me</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://github.com/surajpathak23"><img src="https://img.icons8.com/ios-filled/50/github.png"/></a>
-  <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
-  <a href="https://x.com/suraj_pathak23"><img src="https://img.icons8.com/color/48/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/surajpathak23"><img src="https://img.icons8.com/ios11/512/EBEBEB/github.png" width="48" height="48" /></a>  
+  <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
+  <a href="https://x.com/suraj_pathak23"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 </p>
