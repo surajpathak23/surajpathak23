@@ -29,6 +29,16 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/surajpathak23">
+    <img src="https://github-readme-stats.vercel.app/api?username=surajpathak23&show_icons=true&theme=onedark&hide=prs&rank_icon=circle" alt="Suraj's GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/surajpathak23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpathak23&theme=onedark&layout=compact&hide=css,html,jupyter%20notebook" alt="Top Languages" />
+  </a>
+</div>
+
 <h2 align="center">💻 About Me</h2>
 
 ```markdown
