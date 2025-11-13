@@ -51,15 +51,16 @@
 
 ---
 
-<h2 align="center">📊 Featured Projects</h2>
+<h2 align="center">📊 Projects</h2>
 
 | Project Name                     | Description                                                                    | Link                                                                    |
 | :------------------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------- |
+| **Student Marks Prediction**     | Predicts student marks using ML with personalized score-improvement tips.      | [GitHub](https://github.com/surajpathak23/Student-Marks-Prediction)     |
+| **Course Recommendation System** | Recommends personalized courses using AI similarity matching.                  | [GitHub](https://github.com/surajpathak23/Course-Recommendation-System) |
+| **Weather Dashboard Using API**  | Displays real-time weather insights using live API data.                       | [GitHub](https://github.com/surajpathak23/Weather-Dashboard-Using-API)  |
+| **Shop Sales Report PowerBi**    | Analyzes shop sales performance using interactive Power BI visuals.            | [GitHub](https://github.com/surajpathak23/Shop_Sales_Report_PowerBi)    |
 | **House Rent Prediction**        | Predictive model using Linear Regression to estimate house rent prices.        | [GitHub](https://github.com/surajpathak23/House-Rent-Prediction)        |
 | **Student Performance Analysis** | Exploratory Data Analysis (EDA) on student performance to uncover key factors. | [GitHub](https://github.com/surajpathak23/Student-Performance-Analysis) |
-| **Customer Lifetime Value**      | Dashboard & ML model using Random Forest to predict churn.                     | [GitHub](https://github.com/surajpathak23/Customer-Churn-Prediction)    |
-| **Ecommerce Customer EDA**       | In-depth EDA on e-commerce dataset using Pandas & Matplotlib.                  | [GitHub](https://github.com/surajpathak23/Ecommerce-Customer-EDA)       |
-| **CLV ML Dashboard**             | Interactive ML dashboard built with Streamlit.                                 | [GitHub](https://github.com/surajpathak23/CLV-ML-Dashboard)             |
 
 ---
 
@@ -82,7 +83,7 @@
 <p align="center">
   <a href="https://certificates.simplicdn.net/share/8638034_40693461752731650613.pdf"><img src="https://img.shields.io/badge/Power%20BI%20-%20Analyzing%20and%20Visualizing%20Data-blue?style=for-the-badge&logo=powerbi" /></a>  
   <a href="https://certificates.simplicdn.net/share/8629532_40693461752580749157.pdf"><img src="https://img.shields.io/badge/Excel%20-%20Microsoft%20Office%20Specialist-green?style=for-the-badge&logo=microsoft-excel" /></a>  
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_jqTc5jgD2qyWn5MQ6_1750227472641_completion_certificate.pdf"><img src="https://img.shields.io/badge/Deloitte%20-%20Data%20Analytics%20Simulation-purple?style=for-the-badge&logo=deloitte" /></a>  
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_jqTc5jgD2qyWn5MQ6_1750227472641_completion_certificate.pdf"><img src="https://img.shields.io/badge/Deloitte%20-%20Data%20Analytics%20Simulation-purple?style=for-the-badge&logo=deloitte" /></a>
 </p>
 
 ---
