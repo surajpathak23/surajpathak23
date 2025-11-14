@@ -7,7 +7,7 @@
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/">
-    <img src="https://img.shields.io/badge/LinkedIn-2.1k-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-2.2k-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!-- Email -->
   <a href="mailto:surajpathakdes@gmail.com">
