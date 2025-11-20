@@ -35,7 +35,7 @@
 </div>
 
 * ✨ Passionate **Data Analyst & Machine Learning Enthusiast** with a knack for turning complex data into clear, actionable insights.
-* 🎓 Pursuing **BCA (Data Analyst)** at MMDU University, with **CGPA 8.04**.
+* 🎓 Pursuing **BCA (Data Analyst)** at MMDU University, with Average **CGPA 8.06**.
 * 📊 Skilled in **Data Cleaning, Visualization & Predictive Modeling** using Python, SQL, Excel & BI Tools.
 * ⚡ **Fun Fact:** I enjoy experimenting with new tools to create impactful projects!
 
